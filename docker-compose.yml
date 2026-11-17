@@ -5,7 +5,7 @@ services:
     container_name: treeplanation-postgres
     restart: always
     environment:
-      POSTGRES_DB: treeplantationevnet
+      POSTGRES_DB: treeplantationevnet-2400032903
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: docker
     ports:
